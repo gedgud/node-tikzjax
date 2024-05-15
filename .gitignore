@@ -58,7 +58,6 @@ node_modules/
 
 # Build output
 out
-dist
 bundle
 
 # Custom files
